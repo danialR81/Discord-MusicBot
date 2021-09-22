@@ -20,10 +20,10 @@ module.exports = {
   //Lavalink
    Lavalink: {
     id: "Main",
-    host: "(host name or IP)",
-    port: (port),
-    pass: "(password)", 
-    secure: false, // Set this to true if you're self-hosting lavalink on replit.
+    host: "lavalink-replit.danial81.repl.co",
+    port: 443,
+    pass: "razali81", 
+    secure: true, // Set this to true if you're self-hosting lavalink on replit.
   },
 
 
